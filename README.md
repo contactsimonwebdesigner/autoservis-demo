@@ -1,2 +1,1 @@
-# autoservis-demo
-English-language web design demo with USD pricing
+# TORQ AUTO LAB - DEMO WEBSITE. Otevřete index.html nebo nahrajte tuto složku na GitHub Pages. Fiktivní autoservis. 25 demo cen, kalkulačka, galerie, interaktivní formulář. Žádná data se nikam neodesílají.
